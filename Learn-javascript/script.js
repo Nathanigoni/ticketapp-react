@@ -1545,3 +1545,4 @@
 // import subtract from "/math_functtions"
 
 // subtract(7,4);
+// console.log(subtract(7,4));
